@@ -1,4 +1,4 @@
-gi## Project Context
+## Project Context
 
 Olist is a Brazilian e-commerce marketplace that connects sellers and customers.
 This project analyzes Olist’s marketplace by integrating transactional
