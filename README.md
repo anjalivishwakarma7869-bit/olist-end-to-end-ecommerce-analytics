@@ -290,4 +290,4 @@ Olist-End-to-End-Ecommerce-Marketing-Analytics
 
 This project intentionally combines **technical rigor**, **business interpretation**, and **analytics engineering best practices**.
 
-Rather than simply presenting dashboards, it demonstrates the complete analytics lifecycle—from data ingestion and validation to modeling, SQL-based business analysis, and executive-level reporting—mirroring how modern analytics teams operate in production environments.
+Rather than simply presenting dashboards, it demonstrates the complete analytics lifecycle—from data ingestion and validation to modeling, SQL-based business analysis, and executive-level reporting—mirroring how modern analytics teams operate in production environments
